@@ -1,4 +1,4 @@
-# Calculator Appli
+# Calculator Appl
 A very basic calculator application created with Java **Swing**. 
 
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
